@@ -1,6 +1,6 @@
 # Renoise Library
 
-40 native Renoise instruments, 41 single-cycle synth shapes, and a modular
+63 native Renoise instruments, 41 single-cycle synth shapes, and a modular
 phrase library — ready to drop into your Renoise User Library.
 
 ## Contents
@@ -12,10 +12,13 @@ Instruments/
   Keys/    Organ Full 888 · Organ Flute · E-Piano Tine · Wurli · Marimba ·
            Vibraphone · Bells Glock · E-Piano FM · Clavinet · Deep House Keys
   Leads/   Square Lead · Wide Detune Lead · Brass Ens · Analog Lead Mono ·
-           FM Shimmer Lead
+           FM Shimmer Lead · 8-Bit Square · Phased PWM · Riser Synth · Ah Lead
   Pads/    Strings Ens · Choir Pad · Glass Pad · Warm Pad · Motion Strings ·
-           Deep House Pad · DnB Atmos Pad
+           Deep House Pad · DnB Atmos Pad · Ooh Pad
   Plucks/  Nylon Pluck · DX Pluck · Acid 303 · DnB Reese Pluck
+  Strings/ Violin Solo · Viola Warm · Cello Deep · Pizzicato
+  Woodwinds/ Flute · Clarinet · Oboe · Pan Flute
+  World/   Sitar Buzz · Koto Pluck · Harp Pluck · Music Box · Kalimba · Steel Pan
   Synth/   Dubstep Growl Wobble
            Brostep Growl Family/  (Growl 01 Wobble · 02 Deep · 03 Vowel ·
             04 Screech · 05 Roar · 06 Yoi)
