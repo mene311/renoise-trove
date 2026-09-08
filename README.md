@@ -1,6 +1,6 @@
 # Renoise Library
 
-63 native Renoise instruments, 41 single-cycle synth shapes, and a modular
+173 native Renoise instruments, 41 single-cycle synth shapes, and a modular
 phrase library — ready to drop into your Renoise User Library.
 
 ## Contents
@@ -41,6 +41,9 @@ Copy the folders into your Renoise User Library:
 
 or browse this repo directly from Renoise. Instruments embed their own
 samples — nothing else to install.
+
+Instruments ship as core patches plus Bright/Dark/Wide/Soft flavor and
+Oct+/Oct- register variants, so pick the voicing you need.
 
 ## Notes
 
