@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InstrumentPhrase doc_version="3">
+  <SelectedPresetLibrary>Bundled Content</SelectedPresetLibrary>
+  <Lines>
+    <Line index="0">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-5</Note>
+          <Volume>5E</Volume>
+        </NoteColumn>
+      </NoteColumns>
+      <EffectColumns>
+        <EffectColumn/>
+      </EffectColumns>
+    </Line>
+    <Line index="1">
+      <NoteColumns>
+      </NoteColumns>
+      <EffectColumns>
+        <EffectColumn/>
+      </EffectColumns>
+    </Line>
+    <Line index="2">
+      <NoteColumns>
+      </NoteColumns>
+      <EffectColumns>
+        <EffectColumn/>
+      </EffectColumns>
+    </Line>
+    <Line index="3">
+      <NoteColumns>
+      </NoteColumns>
+      <EffectColumns>
+        <EffectColumn/>
+      </EffectColumns>
+    </Line>
+    <Line index="4">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>OFF</Note>
+        </NoteColumn>
+      </NoteColumns>
+      <EffectColumns>
+        <EffectColumn/>
+      </EffectColumns>
+    </Line>
+      </Lines>
+  <Name>Bach 024823b2</Name>
+  <Autoseek>true</Autoseek>
+  <LinesPerBeat>4</LinesPerBeat>
+  <ShuffleIsActive>false</ShuffleIsActive>
+  <ShuffleAmounts>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+  </ShuffleAmounts>
+  <PlaybackMode>Pattern</PlaybackMode>
+  <NumberOfLines>64</NumberOfLines>
+  <VisibleNoteColumns>1</VisibleNoteColumns>
+  <VisibleEffectColumns>1</VisibleEffectColumns>
+  <NoteColumnNames>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+  </NoteColumnNames>
+  <NoteColumnStates>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+  </NoteColumnStates>
+  <InstrumentColumnIsVisible>false</InstrumentColumnIsVisible>
+  <VolumeColumnIsVisible>true</VolumeColumnIsVisible>
+  <PanningColumnIsVisible>false</PanningColumnIsVisible>
+  <DelayColumnIsVisible>true</DelayColumnIsVisible>
+  <SampleEffectsColumnIsVisible>true</SampleEffectsColumnIsVisible>
+  <TriggerOptions>
+    <BaseNote>48</BaseNote>
+    <KeyTracking>Transpose</KeyTracking>
+    <Loop>true</Loop>
+    <LoopStart>0</LoopStart>
+    <LoopEnd>64</LoopEnd>
+  </TriggerOptions>
+  <ScriptDevice>
+    <SelectedPresetName>Init</SelectedPresetName>
+    <SelectedPresetLibrary>Bundled Content</SelectedPresetLibrary>
+    <SelectedPresetIsModified>false</SelectedPresetIsModified>
+    <IsMaximized>true</IsMaximized>
+    <IsSelected>false</IsSelected>
+    <IsActive>
+      <Value>1.0</Value>
+      <Visualization>Device only</Visualization>
+    </IsActive>
+    <EditorVisible>true</EditorVisible>
+  </ScriptDevice>
+</InstrumentPhrase>

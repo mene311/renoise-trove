@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InstrumentPhrase doc_version="3">
+  <SelectedPresetLibrary>Bundled Content</SelectedPresetLibrary>
+  <Lines>
+    <Line index="0">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>90</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="2">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>E-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>80</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="4">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>G-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>20</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="6">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>E-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>90</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="8">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>B-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>80</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="10">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>G-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>90</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="12">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>E-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>20</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="14">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>G-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>70</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="16">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>E-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>80</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="18">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>G-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>90</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="20">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>D-5</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>20</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="22">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>E-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>90</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="24">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>D-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>80</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="26">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>D-5</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>70</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="28">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>F-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+          <EffectValue>20</EffectValue>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="30">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>D-4</Note>
+          <EffectNumber>0Y</EffectNumber>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+  </Lines>
+  <Name>Phrase 01</Name>
+  <Autoseek>true</Autoseek>
+  <LinesPerBeat>8</LinesPerBeat>
+  <ShuffleIsActive>false</ShuffleIsActive>
+  <ShuffleAmounts>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+  </ShuffleAmounts>
+  <PlaybackMode>Pattern</PlaybackMode>
+  <NumberOfLines>32</NumberOfLines>
+  <VisibleNoteColumns>4</VisibleNoteColumns>
+  <VisibleEffectColumns>1</VisibleEffectColumns>
+  <NoteColumnNames>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+  </NoteColumnNames>
+  <NoteColumnStates>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+  </NoteColumnStates>
+  <InstrumentColumnIsVisible>false</InstrumentColumnIsVisible>
+  <VolumeColumnIsVisible>true</VolumeColumnIsVisible>
+  <PanningColumnIsVisible>false</PanningColumnIsVisible>
+  <DelayColumnIsVisible>false</DelayColumnIsVisible>
+  <SampleEffectsColumnIsVisible>true</SampleEffectsColumnIsVisible>
+  <TriggerOptions>
+    <BaseNote>48</BaseNote>
+    <KeyTracking>Transpose</KeyTracking>
+    <Loop>true</Loop>
+    <LoopStart>0</LoopStart>
+    <LoopEnd>32</LoopEnd>
+  </TriggerOptions>
+  <ScriptDevice>
+    <SelectedPresetName>Init</SelectedPresetName>
+    <SelectedPresetLibrary>Bundled Content</SelectedPresetLibrary>
+    <SelectedPresetIsModified>false</SelectedPresetIsModified>
+    <IsMaximized>true</IsMaximized>
+    <IsSelected>false</IsSelected>
+    <IsActive>
+      <Value>1.0</Value>
+      <Visualization>Device only</Visualization>
+    </IsActive>
+    <EditorVisible>true</EditorVisible>
+  </ScriptDevice>
+</InstrumentPhrase>

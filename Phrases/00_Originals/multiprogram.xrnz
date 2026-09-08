@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InstrumentPhrase doc_version="3">
+  <SelectedPresetLibrary>User Library</SelectedPresetLibrary>
+  <Lines>
+    <Line index="0">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="16">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="32">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="48">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="64">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="80">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="96">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="112">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="128">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="144">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="160">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="176">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="192">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="208">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="224">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+    <Line index="240">
+      <NoteColumns>
+        <NoteColumn>
+          <Note>C-4</Note>
+        </NoteColumn>
+      </NoteColumns>
+    </Line>
+  </Lines>
+  <Name>Phrase 04</Name>
+  <Autoseek>true</Autoseek>
+  <LinesPerBeat>8</LinesPerBeat>
+  <ShuffleIsActive>false</ShuffleIsActive>
+  <ShuffleAmounts>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+    <ShuffleAmount>0</ShuffleAmount>
+  </ShuffleAmounts>
+  <PlaybackMode>Pattern</PlaybackMode>
+  <NumberOfLines>248</NumberOfLines>
+  <VisibleNoteColumns>1</VisibleNoteColumns>
+  <VisibleEffectColumns>1</VisibleEffectColumns>
+  <NoteColumnNames>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+    <NoteColumnName/>
+  </NoteColumnNames>
+  <NoteColumnStates>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+    <NoteColumnState>Active</NoteColumnState>
+  </NoteColumnStates>
+  <InstrumentColumnIsVisible>false</InstrumentColumnIsVisible>
+  <VolumeColumnIsVisible>false</VolumeColumnIsVisible>
+  <PanningColumnIsVisible>false</PanningColumnIsVisible>
+  <DelayColumnIsVisible>false</DelayColumnIsVisible>
+  <SampleEffectsColumnIsVisible>true</SampleEffectsColumnIsVisible>
+  <TriggerOptions>
+    <BaseNote>48</BaseNote>
+    <KeyTracking>Transpose</KeyTracking>
+    <Loop>true</Loop>
+    <LoopStart>0</LoopStart>
+    <LoopEnd>248</LoopEnd>
+  </TriggerOptions>
+  <ScriptDevice>
+    <SelectedPresetName>Init</SelectedPresetName>
+    <SelectedPresetLibrary>Bundled Content</SelectedPresetLibrary>
+    <SelectedPresetIsModified>true</SelectedPresetIsModified>
+    <IsMaximized>true</IsMaximized>
+    <IsSelected>false</IsSelected>
+    <IsActive>
+      <Value>1.0</Value>
+      <Visualization>Device only</Visualization>
+    </IsActive>
+    <EditorVisible>true</EditorVisible>
+    <Paragraphs>
+      <Paragraph>return pattern {</Paragraph>
+      <Paragraph>  unit = "1/4",</Paragraph>
+      <Paragraph>  pulse = { 1, 0 },</Paragraph>
+      <Paragraph>  event = { "c4" }</Paragraph>
+      <Paragraph>}</Paragraph>
+    </Paragraphs>
+  </ScriptDevice>
+</InstrumentPhrase>
