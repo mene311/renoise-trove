@@ -1,5 +1,5 @@
-Deep House pack
+Deep House
 ==========
-Instrument: Deep House Keys Combi.xrni — combi patch with 8 phrase slots.
-Phrases: also here as .xrnz for pattern use.
-Usage: load instrument, play keys. Change phrase slot via MIDI program change or Zxx effect command (Z01.. = slots 1..).
+Deep House Keys Combi.xrni — hero patch with 8 phrase slots (Zxx / MIDI program changes switch riff).
++ 4 matching instruments · 8 phrases.
+Play keys to audition; program 1-8 = phrase slots.
