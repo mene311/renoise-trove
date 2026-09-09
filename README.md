@@ -21,6 +21,7 @@ twist in the editor.
 |---|---|
 | **Instruments** · 173 | Keys (EPs, organs, clav, mallets, bells) · Leads · Plucks · Pads · Strings · Woodwinds · World · Basses · Dubstep growls — each core patch ships with **Bright / Dark / Wide / Soft** moods and **Oct±** registers |
 | **Phrases** · ~450 | Curated originals: bass lines, arps, chords, riffs, melodies, FX, mood themes · genre packs (Dark Synth, Latin, RnB, Happy, Wild, Reggae Roots, Salsa Son, Boogie Blues) · Ragtime classics sampler |
+| **Style packs** | Hero instrument + ~8 matching phrases wired as phrase slots — Dubstep Growl, Deep House (growing) |
 | **Synth Shapes** · 41 | C1 single-cycle oscillator shapes — the building blocks, yours to reuse in your own patches |
 | **License** | CC0 — free forever. Copy, remix, ship, sell the music you make with it |
 
