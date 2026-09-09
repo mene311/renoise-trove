@@ -25,10 +25,10 @@ Instruments/
 Samples/
   Synth Shapes/       41 single-cycle oscillator shapes (C1, 44.1 kHz FLAC)
   Brostep One-Shots/  13 synthesized one-shot hits
-Phrases/
-  00-12   moods, themes, bass lines, arps, chords, rhythms, FX, riffs, melodies
-  13-15   MIDI corpora — Bach chorales, Bach basses, Irish folk
-  17-21   genre packs — Dark Synth, Latin, RnB Dark, Happy, Wild
+Phrases/  (curated — ~400 presets, ~97% original)
+  00-12   original themes, bass lines, arps, chords, rhythms, FX, riffs, melodies
+  13_Classics   famous Bach chorale melodies (public domain sampler)
+  14-18   genre packs — Dark Synth, Latin, RnB Dark, Happy, Wild
 ```
 
 ## Install
