@@ -1,54 +1,59 @@
-# Renoise Library
+# 🎛️ Renoise Trove
 
-173 native Renoise instruments, 41 single-cycle synth shapes, and a modular
-phrase library — ready to drop into your Renoise User Library.
+**The free, ever-growing vault of 100% native Renoise instruments & phrases.**
 
-## Contents
+![instruments](https://img.shields.io/badge/instruments-173-7c3aed?style=flat-square)
+![phrases](https://img.shields.io/badge/phrases-400-2ea44f?style=flat-square)
+![shapes](https://img.shields.io/badge/synth%20shapes-41-0ea5e9?style=flat-square)
+![license](https://img.shields.io/badge/license-CC0-important?style=flat-square)
+![format](https://img.shields.io/badge/format-.xrni%20·%20.xrnz-lightgrey?style=flat-square)
 
-```
-Instruments/
-  Bass/    Deep House Bass · DnB Reece Stab · Doom Sub · Formant Growl ·
-           Reese Stacker · Sub Drop · 808 Bass
-  Keys/    Organ Full 888 · Organ Flute · E-Piano Tine · Wurli · Marimba ·
-           Vibraphone · Bells Glock · E-Piano FM · Clavinet · Deep House Keys
-  Leads/   Square Lead · Wide Detune Lead · Brass Ens · Analog Lead Mono ·
-           FM Shimmer Lead · 8-Bit Square · Phased PWM · Riser Synth · Ah Lead
-  Pads/    Strings Ens · Choir Pad · Glass Pad · Warm Pad · Motion Strings ·
-           Deep House Pad · DnB Atmos Pad · Ooh Pad
-  Plucks/  Nylon Pluck · DX Pluck · Acid 303 · DnB Reese Pluck
-  Strings/ Violin Solo · Viola Warm · Cello Deep · Pizzicato
-  Woodwinds/ Flute · Clarinet · Oboe · Pan Flute
-  World/   Sitar Buzz · Koto Pluck · Harp Pluck · Music Box · Kalimba · Steel Pan
-  Synth/   Dubstep Growl Wobble
-           Brostep Growl Family/  (Growl 01 Wobble · 02 Deep · 03 Vowel ·
-            04 Screech · 05 Roar · 06 Yoi)
-Samples/
-  Synth Shapes/       41 single-cycle oscillator shapes (C1, 44.1 kHz FLAC)
-  Brostep One-Shots/  13 synthesized one-shot hits
-Phrases/  (curated — ~400 presets, ~97% original)
-  00-12   original themes, bass lines, arps, chords, rhythms, FX, riffs, melodies
-  13_Classics   famous Bach chorale melodies (public domain sampler)
-  14-18   genre packs — Dark Synth, Latin, RnB Dark, Happy, Wild
-```
+No VSTs. No samples from packs. No rendering tricks — every instrument is a
+**native Renoise sampler synth**: looped single-cycle oscillators through
+Renoise's own filters, chorus & distortion, wrapped in macro knobs you can
+twist in the editor.
 
-## Install
+---
 
-Copy the folders into your Renoise User Library:
+## 📦 What's inside
 
-```
-~/.local/share/Renoise/User Library/
+| Area | Contents |
+|---|---|
+| **Instruments** · 173 | Keys (EPs, organs, clav, mallets, bells) · Leads · Plucks · Pads · Strings · Woodwinds · World · Basses · Dubstep growls — each core patch ships with **Bright / Dark / Wide / Soft** moods and **Oct±** registers |
+| **Phrases** · 400 | Curated: original bass lines, arps, chords, riffs, melodies, FX · Bach classics sampler · Dark Synth · Latin · RnB · Happy · Wild |
+| **Synth Shapes** · 41 | C1 single-cycle oscillator shapes — the building blocks, yours to reuse in your own patches |
+| **License** | CC0 — free forever. Copy, remix, ship, sell the music you make with it |
+
+## 🚀 Install (30 seconds)
+
+```bash
+git clone https://github.com/mene311/renoise-trove /tmp/renoise-trove
+cp -r /tmp/renoise-trove/{Instruments,Samples,Phrases} \
+      ~/.local/share/Renoise/User\ Library/
 ```
 
-or browse this repo directly from Renoise. Instruments embed their own
-samples — nothing else to install.
+Or just browse/download folders straight from this page — Renoise reads them
+live from your User Library. Instruments embed their own samples, nothing else
+to install.
 
-Instruments ship as core patches plus Bright/Dark/Wide/Soft flavor and
-Oct+/Oct- register variants, so pick the voicing you need.
+## ✨ Why it's different
 
-## Notes
+- **Truly native** — edit any patch: oscillators, filter, envelopes, macros all visible
+- **Consistent architecture** — one mental model across 173 instruments: learn one, know them all
+- **Instruments + phrases that match** — riff packs designed to pair with the patches
+- **Macro-driven** — wobble, drive, brightness on the instrument selector, automatable live
+- **Small & clean** — ~600 files, curated, not a corpus dump
 
-- Instruments are sampler-synths: looped single-cycle oscillators through
-  native filters/chorus/distortion with per-patch macros (wobble, drive, etc.)
-- Phrases: plain XML presets, LPB 4 (1 line = 1/16), BaseNote C-4 (48),
-  KeyTracking = Transpose, loop on — drag onto a pattern line to play
-- Category folders mirror the Renoise factory taxonomy
+## 🎧 Previews
+
+Audio previews + a family demo song are on the way (see project handoff).
+
+## 🔎 Find something
+
+| You want | Look in |
+|---|---|
+| Deep dubstep/neuro bass | `Instruments/Synth/Brostep Growl Family/`, `Bass/DnB*`, `Bass/Reese*` |
+| Warm keys / EP / organ | `Instruments/Keys/` (E-Piano FM · Wurli · Organ Full 888 · Tine) |
+| Real-feel strings/woodwinds | `Instruments/Strings/`, `Instruments/Woodwinds/` |
+| Plucks & mallets | `Instruments/Plucks/`, `Instruments/Keys/` (Marimba, Kalimba, Vibes…) |
+| Grooves & melodies to play | `Phrases/` — Dark Synth riffs, Latin, RnB, Happy, Wild |
