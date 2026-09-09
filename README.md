@@ -3,7 +3,7 @@
 **The free, ever-growing vault of 100% native Renoise instruments & phrases.**
 
 ![instruments](https://img.shields.io/badge/instruments-173-7c3aed?style=flat-square)
-![phrases](https://img.shields.io/badge/phrases-400-2ea44f?style=flat-square)
+![phrases](https://img.shields.io/badge/phrases-450-2ea44f?style=flat-square)
 ![shapes](https://img.shields.io/badge/synth%20shapes-41-0ea5e9?style=flat-square)
 ![license](https://img.shields.io/badge/license-CC0-important?style=flat-square)
 ![format](https://img.shields.io/badge/format-.xrni%20·%20.xrnz-lightgrey?style=flat-square)
@@ -20,7 +20,7 @@ twist in the editor.
 | Area | Contents |
 |---|---|
 | **Instruments** · 173 | Keys (EPs, organs, clav, mallets, bells) · Leads · Plucks · Pads · Strings · Woodwinds · World · Basses · Dubstep growls — each core patch ships with **Bright / Dark / Wide / Soft** moods and **Oct±** registers |
-| **Phrases** · 400 | Curated: original bass lines, arps, chords, riffs, melodies, FX · Bach classics sampler · Dark Synth · Latin · RnB · Happy · Wild |
+| **Phrases** · ~450 | Curated originals: bass lines, arps, chords, riffs, melodies, FX, mood themes · genre packs (Dark Synth, Latin, RnB, Happy, Wild, Reggae Roots, Salsa Son, Boogie Blues) · Ragtime classics sampler |
 | **Synth Shapes** · 41 | C1 single-cycle oscillator shapes — the building blocks, yours to reuse in your own patches |
 | **License** | CC0 — free forever. Copy, remix, ship, sell the music you make with it |
 

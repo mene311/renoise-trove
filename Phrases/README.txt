@@ -39,3 +39,13 @@ SOURCES & LICENSES
 
 BUILDERS: _tools/ (alc2phrase, midi2phrase, melody_ideas, variants64,
 make_original_packs, etc.). Corpus regen: point SRC/OUT envs at the archive.
+
+NEW (2026-09-09)
+- 19_PD_Ragtime (10)  Scott Joplin classics (public domain, Mutopia transcriptions):
+  Maple Leaf, The Entertainer, Bethena, Magnetic Rag, Sugar Cane…
+- 22_Reggae_Roots (12) original reggae/roots basslines (ours)
+- 23_Salsa_Son (12)    original son/tumbao basslines (ours)
+- 24_Boogie_Blues (12) original boogie-woogie walking lines (ours)
+- PENDING: 20_PD_Early_Jazz, 21_Trad_Dance (sources blocked this round;
+  see handoff: early-jazz via piano-roll site needs session; trad site has no
+  direct .mid links — alternate sources planned).
