@@ -1,5 +1,4 @@
 Happy Pop
 =========
-Square Lead Combi.xrni — hero patch with 8 phrase slots (Zxx / MIDI program changes switch riff).
-+ 4 matching instruments · 8 phrases.
-Play keys to audition; program 1-8 = phrase slots.
+All 5 instruments are COMBI patches: each carries the 8 style phrases as phrase slots.
+Usage: load any * Combi.xrni, play keys; Zxx / MIDI program changes 1-8 switch riff; keys transpose it.
